@@ -2,7 +2,7 @@
   
 # 👋 Hey, I'm Bikram Sarkar
 
-### 💻 MERN Stack Developer | DevOps| IoT Enthusiast | Embedded Systems Engineer
+### 💻 MERN Stack Developer | DevOps | IoT Enthusiast | Embedded Systems Engineer
 
 *Crafting seamless full-stack experiences from front-end to deployment.*
 
