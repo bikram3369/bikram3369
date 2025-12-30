@@ -155,18 +155,6 @@ Focus: Full-Stack Development, IoT, Embedded Systems, Signal Processing
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-
-<img src= "https://nirzak-streak-stats.vercel.app/?user=bikram3369&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bikram3369&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-</div>
-
----
 
 ## 🏆 Contribution Graph
 
